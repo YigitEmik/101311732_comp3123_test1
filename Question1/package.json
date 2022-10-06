@@ -1,0 +1,12 @@
+{
+  "name": "question1",
+  "version": "1.0.0",
+  "description": "question1",
+  "main": "lowerCaseWords.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node lowerCaseWords.js"
+  },
+  "author": "yigit emik",
+  "license": "ISC"
+}
